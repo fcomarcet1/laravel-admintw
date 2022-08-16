@@ -1,4 +1,4 @@
-## Laravel admin template
+## Laravel admin template --> https://laraveladmintw.com/
 ### Laravel AdminTW is minimal Livewire theme styled with TailwindCSS.
 
 ### Laravel AdminTW supports both light and dark mode based on the users OS.
